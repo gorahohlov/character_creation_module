@@ -1,6 +1,7 @@
 {
-    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Enabled": false,
     "python.linting.enabled": true,
     "python.analysis.typeCheckingMode": "off",
-    "editor.cursorStyle": "line"
+    "editor.cursorStyle": "line",
+    "python.linting.mypyEnabled": true
 }
