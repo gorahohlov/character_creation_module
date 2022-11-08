@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.vscode/
+.vscode
+task?.py
 # mypy_cache/ # добавлять в .gitignore? Неуверен. Потребуется ли для проверки?
 
 # C extensions
